@@ -1,7 +1,10 @@
 # MaterialUpdater For Termux
 
-### a simple script that updates 1.20.80 material bin files to 1.20.20+
+### a simple script that updates 1.20.80 material bin files to 1.21.20+
 
+### How is works
+1.unpacks old files
+2.repack to latest\(ϋ)/♩
 # How to Use
 
 > git clone
