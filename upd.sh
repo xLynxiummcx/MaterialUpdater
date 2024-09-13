@@ -16,7 +16,7 @@ OUTPUT_DIR="Unpacked"
 REPACK_DIR="Repacked"
 
 #welcome
-echo "♪┌|∵|┘♪ Welcome"
+echo "♪┌|∵|┘♪ Welcome,Suryan is forbidden in these grounds"
 
 # Check if the JAR file exists
 if [ ! -f "$MBT_JAR_PATH_UNPACK" ]; then
