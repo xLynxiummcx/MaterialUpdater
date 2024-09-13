@@ -6,8 +6,11 @@
 
 > git clone
 > 1.run ``setup.sh``
+
 > 2.put your files[materialbin]in unpack
+
 > 3.then run ``upd.sh``
+
 > 4. your updated file will be in ``Repacked`` folder
 
 # Thanks To
